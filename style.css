@@ -1,0 +1,51 @@
+.a{
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 50px;
+    border: 2px solid red;
+    color: blue;
+}
+.b{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+.c{
+    text-align: center;
+}
+.t{
+    width: 1400px;
+    height: 40px;
+}
+.btn{
+    background-color: green;
+    width: 350px;
+    height: 50px;
+    font-size: 25px;
+    color: white;
+    border: none;
+}
+
+table,tr,td{
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+    color: white;
+    height: 30px;
+}
+.y{
+    background-color: green;
+    width: 300px;
+}
+.bl{
+    background-color: blue;
+    width: 900px;
+}
+.q{
+    background-color: red;
+    width: 300px;
+}
+.qora{
+    background-color: black;
+    width: 900px;
+}
